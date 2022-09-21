@@ -48,7 +48,7 @@ document.querySelector("#submit").addEventListener("click", (e) => {
       https://instagram.com/bsc_rental%0A
       https://web.facebook.com/BastianServiceCentre%0A%0A
       Reservation WA (62821-1609-1165)%0A
-      Reservation WA (62858-6404-0204)%0A`;
+      Reservation WA (62811-2070-412)%0A`;
 
   //if (klien === "" || tanggal === "" || jam === "") {
   if (location === "" || tanggal === "" || jam === "" || numdays === "") {
