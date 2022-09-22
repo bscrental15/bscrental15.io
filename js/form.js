@@ -45,7 +45,7 @@ document.querySelector("#submit").addEventListener("click", (e) => {
       ${droplocation}%0A%0A
       Follow us :%0A
       Website : www.bscrental.com%0A
-      https://instagram.com/bsc_rental%0A
+      https://instagram.com/bsc.rental%0A
       https://web.facebook.com/BastianServiceCentre%0A%0A
       Reservation WA (62821-1609-1165)%0A
       Reservation WA (62811-2070-412)%0A`;
